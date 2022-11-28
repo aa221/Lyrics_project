@@ -1,4 +1,4 @@
-# Lyrics_project
+# Similar Songs Based on their Lyrics!
 Analyzing the similarity of songs based on lyric usage. 
 
 

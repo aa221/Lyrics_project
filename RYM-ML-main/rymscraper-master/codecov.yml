@@ -1,8 +1,0 @@
-comment: off
-coverage:
-  status:
-    changes: off
-    project: off
-    patch: off
-fixes:
-    - "::rymscraper/"

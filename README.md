@@ -1,5 +1,5 @@
 # Similar Songs Based on their Lyrics!
-Analyzing the similarity of songs based on lyric usage. 
+Creating a model to predict similar songs based on lyric usage. 
 
 
 ## Context behind Word2Vec and Doc2Vec

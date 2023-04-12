@@ -22,10 +22,6 @@ import spotipy.util as util
 from json.decoder import JSONDecodeError
 
 
-SPOTIPY_CLIENT_ID = '9b0a115d14994154b4cefa7489c19393'
-SPOTIPY_CLIENT_SECRET = 'b2f9be2b157e480d8b5d35499234ddec'
-SPOTIPY_REDIRECT_URI='http://google.com'
-SCOPE = "user-top-read"
 
 
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=SPOTIPY_CLIENT_ID, client_secret=SPOTIPY_CLIENT_SECRET, redirect_uri=SPOTIPY_REDIRECT_URI, scope=SCOPE))
